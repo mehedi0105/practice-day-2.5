@@ -1,0 +1,51 @@
+@media only screen and (min-width: 400px) and (max-width:767px)
+{
+    .menu{
+        gap: 10px;
+    }
+    .banner_bottom{
+        display: block;
+        margin-top: 50px;
+        
+    }
+    .tittle{
+        font-size: 30px;
+    }
+    .banner_items{
+        font-size: 14px;
+    }
+    .banner_img{
+        width: 75%;
+        height: 75%;
+        margin: auto;
+    }
+    .sponser{
+        display: block;
+
+    }
+    .box{
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    .top, .bottom{
+        width: 100%;
+        display: block;
+        
+    }
+    .about_us{
+        display: block;
+        margin: auto;
+        width: 100%;
+        text-align: center;
+    }
+    .footer_container{
+        display: block;
+        text-align: center;
+    }
+    span{ 
+        margin-left: -10px;
+        margin-right: 10px;
+        color:#FB9D5C;
+   }
+  
+}
